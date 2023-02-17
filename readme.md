@@ -11,7 +11,7 @@
 ## Install
 
 1. Raycast → Create script command. Locate this script
-2. Create an .env file with your LastFM credentials
+2. Create an `.env` file in the root of the folder with your LastFM credentials
 
 ```shell
 DISCOGS_API_KEY="XXX"
