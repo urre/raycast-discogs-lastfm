@@ -1,6 +1,8 @@
 
 # Raycast Script command to browse Discogs from the currently playing album
 
+[Blog Post →](https://urre.me/writings/raycast-discogs/)
+
 ![](https://res.cloudinary.com/urre/image/upload/v1676616640/khi9ss3vbavnaxod3qyr.jpg)
 
 ## Prerequisites
